@@ -1,0 +1,6 @@
+1. Create a dictionary for a movie ticket booking system with keys as the movie ID and other attributes [name,language,genre,ratings] as values.
+2. Take an input from the user and add a new movie to the dictionary.
+3. Take the input from a user and remove a particular movie.
+4. Overwrite the details of any movie ID.
+5. Create a dictionary for a student register that stores the names of 5 students and marks of 5 subjects each.
+6. Print the marks of each student subjectwise and its aggregate of each student.
