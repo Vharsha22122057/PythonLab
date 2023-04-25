@@ -1,0 +1,5 @@
+1.Create a simple calculator to add, subtract and multiply two or more values, but division and exponential shall be operated on two values. If the user enters more than two values for division and exponential, it should give an appropriate error message.
+Use the concept of functions to take input, and separate functions for distinctive operations.
+
+2.Write a program using the concept of functions to take integer values indefinitely and find the maximum value entered in the loop, along with the count of odd and even numbers.
+The program should also provide the average value of the numbers entered.
