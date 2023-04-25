@@ -1,0 +1,20 @@
+### Given an integer, n, perform the following conditional actions:
+
+If  is odd, print Weird
+If  is even and in the inclusive range of  2 to 5 , print Not Weird
+If  is even and in the inclusive range of 6 to 20, print Weird
+If  is even and greater than 20, print Not Weird
+
+Input Format
+A single line containing a positive integer, n.
+Constraints
+1<=n<=100
+Output Format
+Print Weird if the number is weird. Otherwise, print Not Weird.
+
+
+### Take an input n from the user that tells the systems the number of elements the user is goung to enter.
+WAP to take in , n, int inputs from the user and find the sum of all the even numbers without using the concepts of complex 
+data types and count the number of odd numbers.
+
+### Write a program to print prime numbers by user specified
