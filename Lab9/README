@@ -1,0 +1,11 @@
+1. Make a variable named fruits_a that contains a list of only the fruits that does not contain the letter "a".
+fruits=[]
+The fruit name has to be taken as an input from the user.If a fruit with letter "a", then the user should be asked to re-enter the input, and if user enters two consecutive fruits with letter "a", then the list should clear all the elements appended and give an appropriate message.
+Sort the list in ascending order. Count the number of duplicate fruit names in the list.
+Create a new list from fruits_a, that has more than 4 letters in their name.
+Include the concept is user defined function for each operation. 
+
+
+2. Make a variable named fruits_a that contains a list of only the fruits that contain the letter "a" with occurences more than 1.
+fruits=[]
+3.Create a list with prime numbers ranging from range m,n where m and n are user given range. Provide the explanation of the code using markdown. *Use the concept of user-defined functions.
