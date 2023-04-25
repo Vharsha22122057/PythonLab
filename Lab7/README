@@ -1,0 +1,5 @@
+1 a. Create two corresponding lists with names as "Passenger_List" and "Passenger_Age" using the list comprehension technique with minimum 10 entries.
+  b. Iterate threough the "Passenger_Age" categorise the passeners in three categories and append to a new list. [0-18 CHILD  19-40 - Adults 41-65-Old and above 65- Senior Citizens].
+2 a. Create a new integer list taing size and elements of the list from the user and name it as Int_List.
+  b. Create a new list "Sub_list" with the odd elements greater than 50 from the Int_List using List Comprehension.
+  c. Create a new list "Sub_list2" with the operation (element**2 - 1) if the element is greater than 50 and is even using List Comprehension.
