@@ -1,0 +1,8 @@
+1. create a user login with login and register feature. The username and passwordshould be validated. Duplicates usernames cannot be there in the list while
+registering.
+2. Create an item details as given below: AQ001 : [name of item, price of item, seller of item,catgory of item]
+The user should be asked to enter the details for 2 items in each category Electrical appliances,Furnitures, Clothes…
+3. Once the dictionary is created the program should create a list of item from the dictionary that stores only IDs of any single category.
+4. Create a list of 5 student ids taken as inpput from the user.
+5. Create a data structure that takes in marks of 5 subjects for each student in the list and assign to the ids.
+6. once the marks are assigned, try and update marks for any single subject for all students. the new marks has to be taken from the user.
