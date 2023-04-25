@@ -1,0 +1,8 @@
+1. Accept an integer value from a user.Count the total number of digits in that number. If the number of digits is greater than 6 print "OOps. Too lengthy" and if its is less than 3 print("Its too tiny"). (Without converting to a character)
+2. Accept an integer from a user and print its multiplication table till 10 with the format "x * 1 = x" where x is the user input.
+3. Write a program to print all the multiples of 5 and 7 in a given range. Range shall be taken from the user.
+4. Create a menu driven program for a bank that does the login, deposit, withdrawal and loan application using the concepts of function.
+5.Write a program to accept a number from a user and calculate the sum of all numbers from 1 to a given number.
+For example, if the user entered 10 the output should be 55 (1+2+3+4+5+6+7+8+9+10)
+6.Write a program to create a user login that would allow the user to enter unlimited  invalid attempts of either username or password. The default username and password can be assumed to me 'Admin' and 'admin' respectively.
+7. Write a program to ask user a question. If the answer is anything other than YES/yes or NO/no the the user should be given a prompt as 'Its just a matter of Yes or No.' and ask the same question again till the answer is either of yes or no.
